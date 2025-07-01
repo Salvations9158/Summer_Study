@@ -15,37 +15,37 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Programming1\Programing1\Chapter02\PA01.c">
+    <ClCompile Include="PA01.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Programming1\Programing1\Chapter02\PA02.c">
+    <ClCompile Include="PA02.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Programming1\Programing1\Chapter02\PA03.c">
+    <ClCompile Include="PA03.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Programming1\Programing1\Chapter02\PA04.c">
+    <ClCompile Include="PA04.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Programming1\Programing1\Chapter02\PA05.c">
+    <ClCompile Include="PA05.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Programming1\Programing1\Chapter02\PA06.c">
+    <ClCompile Include="PA06.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Programming1\Programing1\Chapter02\PA07.c">
+    <ClCompile Include="PA07.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Programming1\Programing1\Chapter02\PA08.c">
+    <ClCompile Include="PA08.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Programming1\Programing1\Chapter02\PA09.c">
+    <ClCompile Include="PA09.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Programming1\Programing1\Chapter02\PA10.c">
+    <ClCompile Include="PA10.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Programming1\Programing1\Chapter02\PA11.c">
+    <ClCompile Include="PA11.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
