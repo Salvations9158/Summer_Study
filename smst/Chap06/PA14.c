@@ -40,12 +40,12 @@ int pa14()
 	return 0;
 }
 
-void ily(const int* y_ptr, int* r_ptr)
+void ily(const int* y_ptr, int* r_ptr) //윤년 계산
 {
 	*r_ptr = (*y_ptr % 4 == 0 && (*y_ptr % 100 != 0 || *y_ptr % 400 == 0)) ? 1 : 0;
 }
 
-void gdm(const int* m_ptr, const int* y_ptr, int* dim_ptr)
+void gdm(const int* m_ptr, const int* y_ptr, int* dim_ptr) //월별 일수 계산
 {
 	int ls = 0;
 	ily(y_ptr, &ls);
